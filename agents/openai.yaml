@@ -1,0 +1,7 @@
+interface:
+  display_name: "Icon Curator"
+  short_description: "Select and integrate one suitable UI icon"
+  default_prompt: "Use $icon-curator to select the best UI icon for this interface."
+
+policy:
+  allow_implicit_invocation: true
